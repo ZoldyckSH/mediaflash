@@ -10,5 +10,5 @@
 
 # Instruction pour démarrer le projet
 
-1. cd /back/ ensuite npm run start:dev
-2. cd /front/ ensuite npm start
+1. cd /back/ ensuite npm i et npm run start:dev
+2. cd /front/ ensuite npm i et npm start
